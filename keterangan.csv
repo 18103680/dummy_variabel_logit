@@ -1,0 +1,25 @@
+No,Nama Variabel,Kategori ,,
+,,1,2,Catatan
+1,Tempat tinggal,Kota,Desa,KRT: Kepala Rumah Tangga
+2,jenis kelamin KRT,Laki,perempuan,KKS: Kartu Keluarga Sejahtera
+3,Umur KRT,<= 30 th,> 30 th,PKH: Program Keluarga Harapan
+4,pendidikan KRT,SD ke bawah,SMP ke atas,BPNT: Bantuan Pangan Non Tunai
+5,Pekerjaan KRT,bekerja ,tidak bekerja,
+6,akses internet KRT,akses,tidak akses,
+7,jamkes KRT,punya ,tidak punya,
+8,status rumah,milik sendiri,selain milik sendiri,
+9,luas lantai rumah,<10 m2 per kapita,>= 10m2 per kapita,
+10,atap rumah,layak,tidak layak,
+11,dinding rumah,layak,tidak layak,
+12,lantai rumah,layak,tidak layak,
+13,sanitasi rumah,layak,tidak layak,
+14,air minum ,layak,tidak layak,
+15,bahan bakar memasak,listrik dan gas,selain listrik dan gas,
+16,akses layanan keuangan,akses,tidak,
+17,punya motor,ya,tidak,
+18,punya tanah/lahan,ya,tidak,
+19,punya KKS ,ya ,tidak,
+20,menerima PKH,ya,tidak,
+21,menerima BPNT,ya,tidak,
+22,menerima bantuan pemerintah daerah,ya,tidak,
+23,pengeluaran ruta,40% terendah (kurang sejahtera),40%menengah+20%teratas (cukup dan sejahtera),
